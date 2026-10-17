@@ -29,7 +29,6 @@ _Tugas Proyek Kelompok **Bismikaallah** · Algoritma dan Struktur Data · Univer
 - [Kompleksitas Operasi](#-kompleksitas-operasi)
 - [Tim Pengembang](#-tim-pengembang)
 - [Pengembangan Selanjutnya](#-pengembangan-selanjutnya)
-- [Lisensi](#-lisensi)
 
 ---
 
@@ -244,12 +243,5 @@ java DemoSistem
 - [ ] Fitur mencari mahasiswa berdasarkan nama
 - [ ] Fitur membatalkan antrian di tengah rantai
 
-## 📄 Lisensi
-
-Proyek ini memakai lisensi [MIT](LICENSE).
-
-<div align="center">
-
-⭐ Jika proyek ini membantu, jangan lupa beri bintang pada repository ini ⭐
 
 </div>
