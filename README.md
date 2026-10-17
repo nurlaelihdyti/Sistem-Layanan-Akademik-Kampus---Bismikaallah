@@ -125,9 +125,9 @@ classDiagram
 head
   │
   ▼
-┌────────┬──────┐    ┌────────┬──────┐    ┌────────┬──────┐
-│  Bowo  │ next │───▶│ Giban  │ next │───▶│  Joko  │ next │───▶ null
-└────────┴──────┘    └────────┴──────┘    └────────┴──────┘
+┌────────┬──────┐     ┌────────┬──────┐     ┌────────┬──────┐
+│  Bowo  │ next │ ───▶│ Giban  │ next │───▶│  Joko  │ next │───▶ null
+└────────┴──────┘     └────────┴──────┘     └────────┴──────┘
 ```
 
 - `tambah()` : telusuri sampai node terakhir, lalu sambungkan node baru di belakang
