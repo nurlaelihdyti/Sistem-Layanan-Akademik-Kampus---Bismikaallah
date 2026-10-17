@@ -73,7 +73,6 @@ sistem-antrian-akademik-kampus/
 │   ├── DaftarAntrian.java   # ADT antrian berbasis LinkedList
 │   └── DemoSistem.java      # Program utama (menu input)
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
@@ -122,7 +121,7 @@ head
   │
   ▼
 ┌────────┬──────┐     ┌────────┬──────┐     ┌────────┬──────┐
-│  Bowo  │ next │ ───▶│ Giban  │ next │───▶│  Joko  │ next │───▶ null
+│  Bowo  │ next │────▶│ Giban  │ next │────▶│  Joko  │ next │────▶ null
 └────────┴──────┘     └────────┴──────┘     └────────┴──────┘
 ```
 
@@ -228,9 +227,9 @@ java DemoSistem
 
 | Nama |
 |---|
-| Nurlaeli Hidayati (ELI) | 
+| Nurlaeli Hidayati (ELI) |
 | Qolbina Aprianti (APRI) | 
-| Neza Alya Ramdhani (ALYA) | 
+| Neza Alya Ramdhani (ALYA) |
 | Aura Iftita Ihzarani (AURA) | 
 
 ## 🔮 Pengembangan Selanjutnya
@@ -239,6 +238,3 @@ java DemoSistem
 - [ ] Validasi input menu dengan `try-catch` agar tidak error saat mengetik huruf
 - [ ] Fitur mencari mahasiswa berdasarkan nama
 - [ ] Fitur membatalkan antrian di tengah rantai
-
-
-</div>
