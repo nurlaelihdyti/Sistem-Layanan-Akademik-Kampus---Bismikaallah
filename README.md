@@ -73,8 +73,6 @@ sistem-antrian-akademik-kampus/
 │   ├── Node.java            # Satu mata rantai (LinkedList)
 │   ├── DaftarAntrian.java   # ADT antrian berbasis LinkedList
 │   └── DemoSistem.java      # Program utama (menu input)
-├── docs/
-│   └── Presentasi_Kelompok_Bismikaallah.pdf
 ├── .gitignore
 ├── LICENSE
 └── README.md
