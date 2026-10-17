@@ -6,7 +6,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-2A9D8F?style=for-the-badge)
 ![Course](https://img.shields.io/badge/Algoritma_dan_Struktur_Data-Kelas_D-1F3A5F?style=for-the-badge)
 
 _Tugas Proyek Kelompok **Bismikaallah** · Algoritma dan Struktur Data · Universitas Mataram_
